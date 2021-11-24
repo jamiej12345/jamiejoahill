@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Jamie Joahill
 
-### An eager junior developer from London, UK
+### A junior developer from London, UK
+
+### Passionate about building Single Page Applications
 
 ### Languages and tools:
 

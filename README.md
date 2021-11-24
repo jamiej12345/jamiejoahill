@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Jamie Joahill
+
+### An eager junior developer from London, UK
+
+### Languages and tools:
 
 <!--
 **JamieJoahill/jamiejoahill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

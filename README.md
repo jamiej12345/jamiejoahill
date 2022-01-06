@@ -4,12 +4,16 @@
 
 ### Passionate about building Single Page Applications
 
-### Languages and tools:
+🌱 I’m currently learning: React Native
+
+📫 How to reach me: jamie.joahill@gmail.com
 
 <!--
 **JamieJoahill/jamiejoahill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Languages and tools:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
